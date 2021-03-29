@@ -1,0 +1,21 @@
+baseurl: ""
+relativeURLs: "true"
+title: "Gyrus"
+author: "Vatsal Mehra"
+canonifyurls: true
+paginate: 3
+
+theme: "hugo-theme-lean-launch-page"
+
+googleAnalytics: "UA-123456"
+
+params:
+  tagline: "Becoming better thinkers, collaboratively"
+  mailchimpURL: "//my-account.mailchimp.com/my-subscriber-url"
+
+  twitter: "https://twitter.com/MyNewProduct"
+  facebook: "https://facebook.com/MyNewProduct"
+  instagram: "https://instagram.com/MyNewProduct"
+  youtube: "https://www.youtube.com/channel/MyNewChannel"
+  linkedin: "https://www.linkedin.com/company/MyNewProduct"
+  github: "https://github.com/MyNewProduct"
