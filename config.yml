@@ -10,12 +10,12 @@ theme: "hugo-theme-lean-launch-page"
 googleAnalytics: "UA-123456"
 
 params:
-  tagline: "Becoming better thinkers, collaboratively"
-  mailchimpURL: "//my-account.mailchimp.com/my-subscriber-url"
+  tagline: "Becoming better humans, collaboratively"
+  mailchimpURL: "https://protonmail.us1.list-manage.com/subscribe/post?u=ac9fe9f10f858690f47ed1c71&amp;id=40a0261cb6"
 
   twitter: "https://twitter.com/MyNewProduct"
-  facebook: "https://facebook.com/MyNewProduct"
-  instagram: "https://instagram.com/MyNewProduct"
-  youtube: "https://www.youtube.com/channel/MyNewChannel"
-  linkedin: "https://www.linkedin.com/company/MyNewProduct"
+#  facebook: "https://facebook.com/MyNewProduct"
+#  instagram: "https://instagram.com/MyNewProduct"
+#  youtube: "https://www.youtube.com/channel/MyNewChannel"
+#  linkedin: "https://www.linkedin.com/company/MyNewProduct"
   github: "https://github.com/MyNewProduct"

@@ -1,6 +1,6 @@
 ---
-title: "Sign Up Today"
+title: "Coming Soon.."
 icon: "fa-check"
 weight: 3
 ---
-Provide a call-to-action (CTA) to Sign up with the MailChimp form. If you're not using MailChimp, then this is Benefit 3.
+We are actively building Gyrus. For updates on our work, sign up with the form above. 

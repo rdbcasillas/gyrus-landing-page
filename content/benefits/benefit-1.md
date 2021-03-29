@@ -1,6 +1,6 @@
 ---
-title: "Benefit 1"
+title: "Enhanced Thinking"
 icon: "fa-group"
 weight: 1
 ---
-Here's the first reason why this new product will benefit you. Words adding to the product description will help.
+Evolution and our education systems are not incentivized to understand our minds.  Learn the art of ***epistemic rationality*** to create mental maps that accurately represent the territory.
